@@ -68,6 +68,26 @@ The game follows the classic 2048 rules:
 - **Random Number Generation**: Use of Java's `Random` class for tile generation
 - **Interfaces & Listeners**: Implementation of custom touch listeners and event handlers
 
+## Learning Objectives
+
+This project was created to achieve the following learning objectives:
+- Understanding Android UI development and layouts
+- Implementation of game mechanics and logic
+- Gesture recognition for swipe controls
+- Working with animations and sound effects
+- Managing application lifecycle and state
+- Applying Java development best practices in a real-world application
+- Implementing efficient algorithms for game logic (merging, sliding, win detection)
+
+## Future Enhancements
+
+- High score leaderboard
+- Game state saving
+- Undo move functionality
+- Different grid sizes (5x5, 6x6)
+- Custom themes
+- Challenge modes
+
 ## Installation
 
 1. Clone the repository:
@@ -87,41 +107,6 @@ This project uses Gradle build system. To build the app:
 ./gradlew assembleDebug
 ```
 
-## Future Enhancements
-
-- High score leaderboard
-- Game state saving
-- Undo move functionality
-- Different grid sizes (5x5, 6x6)
-- Custom themes
-- Challenge modes
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Original 2048 game concept by Gabriele Cirulli
-- Sound effects from [mention source if applicable]
-
-## Learning Objectives
-
-This project was created to achieve the following learning objectives:
-- Understanding Android UI development and layouts
-- Implementation of game mechanics and logic
-- Gesture recognition for swipe controls
-- Working with animations and sound effects
-- Managing application lifecycle and state
-- Applying Java development best practices in a real-world application
-- Implementing efficient algorithms for game logic (merging, sliding, win detection)
-
-## Contact
-
-Harsh Jingar - [Your Contact Information]
-
-Project Link: https://github.com/HarshJingar/2048Game
